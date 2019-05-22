@@ -23,9 +23,8 @@ p {
 body {
   position:  relative;
   width: 100%;
-  background-size: cover;
-  background-position: center;
-  background-image: url(diagonalDarkBlueGrey.jpg);
+  background-image: url(BlueBayou.jpg);
+  background: cover;
   text-align: center;
   color: white;
   font-family: 'Noto Sans TC', sans-serif;
@@ -37,7 +36,8 @@ header {
   background-position: center;
   text-align: center;
   color: white;
-  font-family: 'Noto Sans TC', sans-serif;
+ font-family: 'Cabin', Open Sans;
+ padding-top: 100px;
 }
 .container {
   width:100%;
