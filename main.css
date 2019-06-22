@@ -23,7 +23,7 @@ p {
 body {
   position:  relative;
   width: 100%;
-  background-image: url(GreenBkgd.png);
+  background-image: url(Stars.png);
   background: cover;
   text-align: center;
   color: white;
@@ -127,4 +127,6 @@ a {
 .mainPhoto {
   padding-top: 30px;
   padding-bottom: 30px;
+  border-radius:50%;
+  overflow:hidden;
 }
